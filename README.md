@@ -23,6 +23,7 @@ My leetcode problem solutions
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/swetakardam/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -36,4 +37,8 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/swetakardam/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
