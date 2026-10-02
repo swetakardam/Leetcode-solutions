@@ -7,6 +7,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/swetakardam/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/swetakardam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -50,5 +51,10 @@ My leetcode problem solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/swetakardam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/swetakardam/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/swetakardam/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
