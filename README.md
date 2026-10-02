@@ -47,4 +47,8 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/swetakardam/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/swetakardam/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
