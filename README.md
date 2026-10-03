@@ -29,6 +29,7 @@ My leetcode problem solutions
 | ------- |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0875-koko-eating-bananas](https://github.com/swetakardam/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -67,8 +68,17 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
