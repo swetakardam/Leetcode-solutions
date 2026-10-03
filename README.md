@@ -12,6 +12,7 @@ My leetcode problem solutions
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swetakardam/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/swetakardam/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -57,4 +58,12 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/swetakardam/Leetcode-solutions/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
