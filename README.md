@@ -28,6 +28,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0485-max-consecutive-ones](https://github.com/swetakardam/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/swetakardam/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
