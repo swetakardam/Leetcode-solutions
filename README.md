@@ -13,6 +13,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/swetakardam/Leetcode-solutions/tree/master/0443-string-compression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swetakardam/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/swetakardam/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/swetakardam/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -79,6 +80,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0443-string-compression](https://github.com/swetakardam/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Counting Sort
 |  |
