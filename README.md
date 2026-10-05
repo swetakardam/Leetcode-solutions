@@ -14,6 +14,7 @@ My leetcode problem solutions
 | ------- |
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swetakardam/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/swetakardam/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/swetakardam/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -68,6 +69,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/swetakardam/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
