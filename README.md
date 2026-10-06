@@ -32,6 +32,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/swetakardam/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/swetakardam/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -57,6 +58,7 @@ My leetcode problem solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/swetakardam/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
@@ -96,6 +98,7 @@ My leetcode problem solutions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
