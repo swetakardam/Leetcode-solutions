@@ -33,6 +33,7 @@ My leetcode problem solutions
 | ------- |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/swetakardam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0485-max-consecutive-ones](https://github.com/swetakardam/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -76,6 +77,7 @@ My leetcode problem solutions
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/swetakardam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/swetakardam/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -101,6 +103,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/swetakardam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## String Matching
