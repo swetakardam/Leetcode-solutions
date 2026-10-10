@@ -10,6 +10,7 @@ My leetcode problem solutions
 | [0189-rotate-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/swetakardam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/swetakardam/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ My leetcode problem solutions
 | [1380-lucky-numbers-in-a-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/swetakardam/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Number Theory
 |  |
 | ------- |
