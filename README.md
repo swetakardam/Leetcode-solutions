@@ -39,6 +39,7 @@ My leetcode problem solutions
 | [0073-set-matrix-zeroes](https://github.com/swetakardam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/swetakardam/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/swetakardam/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -135,4 +136,5 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/swetakardam/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/swetakardam/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
