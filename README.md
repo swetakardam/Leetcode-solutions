@@ -38,6 +38,7 @@ My leetcode problem solutions
 | [0054-spiral-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/swetakardam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/swetakardam/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -130,4 +131,8 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/swetakardam/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
