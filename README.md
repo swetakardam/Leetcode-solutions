@@ -44,6 +44,7 @@ My leetcode problem solutions
 | [0189-rotate-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/swetakardam/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -98,6 +99,7 @@ My leetcode problem solutions
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/swetakardam/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
