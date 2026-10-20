@@ -42,6 +42,7 @@ My leetcode problem solutions
 | [0074-search-a-2d-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/swetakardam/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swetakardam/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0162-find-peak-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -74,6 +75,7 @@ My leetcode problem solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/swetakardam/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/swetakardam/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Simulation
