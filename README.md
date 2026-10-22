@@ -54,6 +54,7 @@ My leetcode problem solutions
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/swetakardam/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -114,6 +115,7 @@ My leetcode problem solutions
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
@@ -123,6 +125,7 @@ My leetcode problem solutions
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/swetakardam/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Counting Sort
 |  |
 | ------- |
@@ -155,4 +158,12 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swetakardam/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
