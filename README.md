@@ -49,6 +49,7 @@ My leetcode problem solutions
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/swetakardam/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/swetakardam/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -115,6 +116,7 @@ My leetcode problem solutions
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/swetakardam/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 ## Two Pointers
@@ -124,6 +126,7 @@ My leetcode problem solutions
 | [0189-rotate-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/swetakardam/Leetcode-solutions/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/swetakardam/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Counting Sort
@@ -161,9 +164,14 @@ My leetcode problem solutions
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/swetakardam/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/swetakardam/Leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
