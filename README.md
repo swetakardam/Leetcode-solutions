@@ -61,6 +61,7 @@ My leetcode problem solutions
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/swetakardam/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/swetakardam/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/swetakardam/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -128,6 +129,7 @@ My leetcode problem solutions
 | [0455-assign-cookies](https://github.com/swetakardam/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -188,4 +190,8 @@ My leetcode problem solutions
 | ------- |
 | [0075-sort-colors](https://github.com/swetakardam/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/swetakardam/Leetcode-solutions/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
