@@ -18,6 +18,7 @@ My leetcode problem solutions
 | [0443-string-compression](https://github.com/swetakardam/Leetcode-solutions/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/swetakardam/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swetakardam/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1816-truncate-sentence](https://github.com/swetakardam/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/swetakardam/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/swetakardam/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -61,6 +62,7 @@ My leetcode problem solutions
 | [1380-lucky-numbers-in-a-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/swetakardam/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1748-sum-of-unique-elements](https://github.com/swetakardam/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/swetakardam/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
