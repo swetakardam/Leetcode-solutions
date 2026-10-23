@@ -58,6 +58,7 @@ My leetcode problem solutions
 | [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/swetakardam/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/swetakardam/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
