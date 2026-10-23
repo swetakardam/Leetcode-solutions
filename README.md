@@ -60,6 +60,7 @@ My leetcode problem solutions
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/swetakardam/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1748-sum-of-unique-elements](https://github.com/swetakardam/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -113,6 +114,7 @@ My leetcode problem solutions
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/swetakardam/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/swetakardam/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1748-sum-of-unique-elements](https://github.com/swetakardam/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Bubble Sort
 |  |
 | ------- |
