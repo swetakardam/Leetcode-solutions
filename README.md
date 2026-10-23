@@ -42,6 +42,7 @@ My leetcode problem solutions
 | [0054-spiral-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/swetakardam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/swetakardam/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/swetakardam/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swetakardam/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -114,6 +115,7 @@ My leetcode problem solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/swetakardam/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -124,6 +126,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/swetakardam/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/swetakardam/Leetcode-solutions/tree/master/0443-string-compression) |
@@ -137,6 +140,7 @@ My leetcode problem solutions
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/swetakardam/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
 ## Matrix
 |  |
@@ -174,5 +178,6 @@ My leetcode problem solutions
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/swetakardam/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/swetakardam/Leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
