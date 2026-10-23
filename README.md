@@ -61,6 +61,7 @@ My leetcode problem solutions
 | [1380-lucky-numbers-in-a-matrix](https://github.com/swetakardam/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/swetakardam/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/swetakardam/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Number Theory
@@ -85,6 +86,7 @@ My leetcode problem solutions
 | [0162-find-peak-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/swetakardam/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@ My leetcode problem solutions
 | [0455-assign-cookies](https://github.com/swetakardam/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/swetakardam/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
