@@ -63,6 +63,7 @@ My leetcode problem solutions
 | [1389-create-target-array-in-the-given-order](https://github.com/swetakardam/Leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/swetakardam/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/swetakardam/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/swetakardam/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
