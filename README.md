@@ -20,6 +20,7 @@ My leetcode problem solutions
 | [0500-keyboard-row](https://github.com/swetakardam/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1108-defanging-an-ip-address](https://github.com/swetakardam/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swetakardam/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/swetakardam/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1816-truncate-sentence](https://github.com/swetakardam/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/swetakardam/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/swetakardam/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -158,6 +159,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/swetakardam/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/swetakardam/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/swetakardam/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Bubble Sort
 |  |
