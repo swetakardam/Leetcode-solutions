@@ -41,6 +41,7 @@ My leetcode problem solutions
 | [0001-two-sum](https://github.com/swetakardam/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/swetakardam/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/swetakardam/Leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -151,6 +152,7 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/swetakardam/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/swetakardam/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
