@@ -8,6 +8,7 @@ My leetcode problem solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/swetakardam/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/swetakardam/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/swetakardam/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/swetakardam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -122,6 +123,7 @@ My leetcode problem solutions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/swetakardam/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/swetakardam/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
