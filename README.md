@@ -16,6 +16,7 @@ My leetcode problem solutions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/swetakardam/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/swetakardam/Leetcode-solutions/tree/master/0443-string-compression) |
@@ -41,6 +42,7 @@ My leetcode problem solutions
 | ------- |
 | [0001-two-sum](https://github.com/swetakardam/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/swetakardam/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/swetakardam/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -226,4 +228,8 @@ My leetcode problem solutions
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swetakardam/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
