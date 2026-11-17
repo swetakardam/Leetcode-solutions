@@ -18,6 +18,7 @@ My leetcode problem solutions
 | ------- |
 | [0014-longest-common-prefix](https://github.com/swetakardam/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/swetakardam/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/swetakardam/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/swetakardam/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/swetakardam/Leetcode-solutions/tree/master/0443-string-compression) |
@@ -140,6 +141,7 @@ My leetcode problem solutions
 | ------- |
 | [0001-two-sum](https://github.com/swetakardam/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/swetakardam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/swetakardam/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/swetakardam/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/swetakardam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/swetakardam/Leetcode-solutions/tree/master/0383-ransom-note) |
